@@ -4,7 +4,7 @@ This Streamlit web application predicts the quality of wine based on various cha
 
 ## Installation
 
-To run this application, ensure you have Python installed on your system. Then, install the required dependencies by running:
+To run this application, ensure you have Python installed on your system. Then, install the required dependencies by running the following commands:
 
 "pip install -r requirements.txt"
 
